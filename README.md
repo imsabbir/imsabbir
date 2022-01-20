@@ -1,4 +1,4 @@
-# sabbir
+![Profile views](https://gpvc.arturio.dev/imsabbir)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imsabbir)  
 
@@ -9,5 +9,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imsabbir&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imsabbir)  
-
-![Profile views](https://gpvc.arturio.dev/imsabbir)  
